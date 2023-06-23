@@ -1,0 +1,840 @@
+
+
+
+body
+{
+    margin: 0;
+    overflow-x: hidden
+}
+
+
+.container 
+    {  
+        margin: 0px  200px; 
+
+    }
+
+.header-content
+{
+    background:  url("img/bg.png") top center ;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-line
+{
+   
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav-item
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height, or 150% */
+    
+    
+    color: #2D2D2D;
+    margin-left: 25px;
+}
+.nav
+{
+   
+    display: flex;
+}
+
+
+    .tel {
+        display: flex;
+    }
+    .svg1{
+        margin-top: 20px;
+        margin-right: 10px;
+    }
+    .svg2{
+        margin-top: 20px;
+        margin-left: 10px;
+
+    }
+    .telephone
+    {
+    color: #2D2D2D;
+    text-decoration:none;
+    font-weight:700;
+    font-size: 16px;
+    }
+    .header-logo
+    {
+        
+        margin-top: 17px;
+    }
+    .hero
+    {
+        margin-top: 284px;
+       
+
+    }
+    .telephone
+    {
+        
+        margin-top: 20px;
+
+    }
+    .zakaz-zvon
+    {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 18px;
+        /* identical to box height, or 150% */
+
+
+        color: #2D2D2D;
+
+    }
+    .zakaz
+    {
+        margin-left: 70px;
+    }
+    .tel
+    {
+    height: 40px
+    }
+
+    .first-block
+    {
+        background-color: white;
+    }
+
+    .ServiceTXT
+    {
+        margin-top: 100px;
+        
+
+
+    }
+    .First-Section
+    {
+        margin-top: 126px;
+        
+
+
+        
+    }
+  
+   
+    .first-block-1
+    {
+       
+        display:flex;
+        margin-top: 0.3px;
+        
+        
+       
+    }
+
+    
+    .FirstButton
+    {
+        
+
+        border: 2px solid;
+        padding: 11px 26px;
+        color: black;
+        border-color: #DC911B;
+        border-radius: 5px;
+
+    }
+    .FirstButton:hover
+    {
+        
+
+        border: 2px solid;
+        padding: 11px 26px;
+        color: white;
+        border-color: #DC911B;
+        border-radius: 5px;
+        background-color: #DC911B;
+        transition: .3s;
+
+    }
+    .first-block1-1
+    {
+        margin-left: 140px;
+    }
+    .FirstButtonTR
+    {
+        margin-top: 50px;
+        margin-left: 400px;
+    }
+
+    
+
+
+
+
+
+
+.row {
+    display: flex;
+}
+
+.first-block1-1 {
+    margin-left: -66px;
+    padding-top: 75px;
+}
+.lil-pump {
+    margin-top: 60px;
+}
+.img5 {
+    position: absolute;
+    top: 130px;
+    left: -347px;
+}
+
+
+.man {
+  margin-left: 300px;
+  margin-top: -1px;
+}
+
+.first-block1-2 {
+    width: 582px;
+}
+
+.lil-pump-2  {
+margin-top: 100px;
+}
+.second4 {
+    position: absolute;
+    top: -2px;
+    right: 174px;
+    z-index:-1;
+   
+}
+.lil-pump-3
+{
+    margin-top: 100px;
+}
+.thirdimg
+{
+    position: absolute;
+    top: -3px;
+    right: -728px;
+}
+
+.first-block1-3
+{
+    width: 582px;
+    margin-left: -66px;
+    padding-top: 75px;
+}
+.man2
+{
+    margin-left: -9px;
+    margin-top: -1px;
+}
+.fourthdimg
+{
+    position: absolute;
+    top: -2px;
+    right: 164px;
+}
+.first-block1-4
+{
+    width: 582px;
+    padding-top: 100px;
+}
+.man3
+{
+    margin-top: 107px;
+    margin-left: 185px;
+}
+.fifthimg
+{
+    position: absolute;
+    top: 362px;
+    right: -401px;
+}
+.second_block
+{
+    margin-top: 200px;
+    background-color: #2D2D2D;
+    color: white;
+}
+
+.imgs1
+{
+
+margin-left: 40px;
+}
+
+.imgs2
+{
+
+margin-left: 20px;
+}
+
+
+.another 
+{
+    margin-top: 125px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 120%;
+    text-transform: uppercase;
+    position: absolute;
+    margin-left: 550px;
+}
+.anothertxt
+{
+    margin-top: -70px;
+    /* margin-bottom: 1rem; */
+    margin-left: -70px;
+}
+.mannn
+{
+    margin-left: -274px;
+    margin-top: -102px;
+}
+.imgss
+{
+    margin-left: -25px;
+    margin-top: 240px;
+}
+
+.thirdBlock_1group
+{
+    margin-top: 250px;
+
+}
+.thirdBlock1colors
+{
+    position: absolute;
+    width: 556px;
+    height: 300px;
+    top: 84px;
+    left: 233px;
+    z-index: -1;
+    background: #DC911B;
+    margin-bottom: 90px;
+}
+.thirdTxt
+{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+text-transform: uppercase;
+color: #000000;
+margin-left: -4px;
+}
+.thirdDis
+{
+    margin-top: 250px;
+    margin-left: 60px;
+}
+.thirdDisview
+{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+
+color: #000000;
+}
+
+.thirdTitle
+{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 120%;
+    
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+    margin-top: 77px;
+    margin-left: 260px;
+}
+.thirdsecondbloc
+{
+    display: flex;
+}
+
+.arrow-button1 {
+    width: 34px;
+    height: 34px;
+    background-color: #C4C4C4;
+    border: none;
+    /* border-radius: 5px; */
+    position: absolute;
+  }
+  .arrow-button2 {
+    width: 34px;
+    height: 34px;
+    background-color: #C4C4C4;
+    border: none;
+    /* border-radius: 5px; */
+    position: absolute;
+    margin-left: 34px;
+  }
+  
+  
+  .arrow-left {
+    width: 14px;
+    height: 14px;
+    border-bottom: 2px solid #000;
+    border-left: 2px solid #000;
+    position: absolute;
+    top: 51%;
+    left: 56%;
+    transform: translate(-50%, -50%) rotate(45deg);
+  }
+  
+  .arrow-right {
+    width: 14px;
+    height: 14px;
+    border-top: 2px solid #000;
+    border-right: 2px solid #000;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%) rotate(45deg);
+  }
+
+
+  .arrow-button1:hover {
+    width: 34px;
+    height: 34px;
+    background-color: #DC911B    ;
+    border: none;
+    /* border-radius: 5px; */
+    position: absolute;
+    transition: .3s;
+
+  }
+  .arrow-button2:hover {
+    width: 34px;
+    height: 34px;
+    background-color: #DC911B    ;
+    border: none;
+    /* border-radius: 5px; */
+    position: absolute;
+    margin-left: 34px;
+    transition: .3s;
+
+  }
+  
+  
+  
+  .buttons
+  {
+    margin-top: 603px;
+    position: absolute;
+    margin-left: 380px;
+  }
+  .more
+  {
+    margin-left: -514px;
+    margin-top: 628px;
+    z-index: 1;
+  }
+  .moretxt
+  {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+  }
+  
+.thirdBlock2section
+{
+    display: flex;
+    width: 1140px;
+    /* margin-bottom: -197px; */
+    margin-top: 85px;
+}
+.thirdBlock1section
+{
+    display: flex;
+    width: 1140px;
+    /* margin-bottom: -197px; */
+   
+}
+.buttoninthirdblock
+{
+    margin-top: 362px;
+    /* margin-right: 100px; */
+    margin-left: -138px;
+
+}
+.arrow-button3
+{
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    
+    background-color: #DC911B;
+    
+    border: 2px solid;
+    border-color: #DC911B;
+   box-shadow: none;
+   color: white ;
+   
+
+
+}
+.arrow-button3:hover
+{
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border: 2px solid;
+    border-color: #DC911B;
+    background: rgba(0,0,0,0);
+   border-color: #DC911B;
+   transition: 0.3s;
+
+
+}
+.arrow-button3:hover > span
+{
+    border-color: #DC911B;
+}
+
+.arrow-right_2ver
+{
+    width: 14px;
+    height: 14px;
+    border-top: 2px solid #000;
+    border-right: 2px solid #000;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+.allprojecttxt
+{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+
+text-transform: uppercase;
+
+color: #000000;
+}
+.svg3
+{
+    margin-top: -25px;
+    margin-left: 150px;
+}
+.allproject
+{
+    margin-left: 920px;
+    margin-top: 80px;
+}
+
+
+
+
+.newsSector
+{
+    margin-top: 300px;
+}
+
+.newstitle
+{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 120%;
+    /* identical to box height, or 22px */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+}
+.ntspan {
+    position: absolute;
+    width: 0px;
+    height: 247px;
+    left: 262px;
+    top: -18px;
+    border: 1px solid #B1B1B0;
+}
+.newstxt
+{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+    
+    
+    color: #000000;
+}
+.newsdate
+{
+    
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 120%;
+/* identical to box height, or 17px */
+
+
+color: #6F6F6E;
+}
+
+.buttoninnews
+{
+    margin-top: 0px;
+}
+
+.newscolorbg
+{
+    position: absolute;
+    width: 944px;
+    height: 471px;
+    left: -370px;
+    top: -150px;
+    background: #EDEEEF;
+}
+.newsText
+{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 120%;
+/* or 43px */
+
+text-transform: uppercase;
+
+color: #000000;
+
+margin-top: 130px;
+margin-left: 400px;
+}
+.newsimg1
+{
+    position: absolute;
+    MARGIN-TOP: 110px;
+}
+.allnewshref
+{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+
+text-transform: uppercase;
+
+color: #000000;
+}
+.allnews
+{
+    margin-top: 140px;
+    margin-left: 60px;
+}
+.qessector
+{
+    margin-top: 150px;
+}
+.qesline
+{
+    margin-left: -270px;
+}
+.qescolor
+{
+    position: absolute;
+    width: 617px;
+    height: 197px;
+    left: 240px;
+    top: 20px;
+    background: #FFE0B0;
+}
+.titleqes
+{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 120%;
+    text-transform: uppercase;
+    color: #000000;
+    margin-left: 240px;
+    margin-top: 40px;
+}
+
+.txtqes
+{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 120%;
+    color: #000000;
+    margin-left: 160px;
+}
+
+.wrapper {
+    /* Наше поля ввода будет прозрачным, поэтому добавим блок-обертку с цветом */
+    width: 200px;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: 90px;
+   
+  }
+  
+  input {
+    /* Делает само поле ввода прозрачным */
+    background: transparent;
+    /* Убираем рамки вокруг поля ввода */
+    border: none;
+    /* Добавим нижнюю черту для красоты */
+    border-bottom: 1px solid #DC911B
+    ;
+  }
+  .wrapper1
+  {
+    width: 200px;
+    height: 30px;
+    margin-left: 330px;
+    margin-top: -30px;
+  }
+  .ButtonTR
+  {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 440px;
+  }
+
+
+  .sectionart
+  {
+    margin-top: 200px;
+  }
+  .titleart
+  {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 120%;
+    /* or 43px */
+
+    text-transform: uppercase;
+
+    color: #000000;
+    margin-left: 250px;
+    }
+    .arttxt
+    {
+        margin-top: 90px;
+    }
+    .artdate
+    {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 12px;
+        line-height: 21px;
+        /* identical to box height, or 175% */
+
+
+        color: #C6C6C6;
+            }
+
+    .arttitle
+    {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 21px;
+        /* identical to box height, or 131% */
+
+
+        color: #000000;
+            }
+        .artdescr
+        {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 12px;
+            line-height: 21px;
+            /* or 175% */
+
+
+            color: #000000;
+
+        }
+        .arthref
+        {
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 120%;
+            /* identical to box height, or 22px */
+
+            text-transform: uppercase;
+
+            color: #000000;
+
+            margin-top: 30px;
+            margin-left: 90px;
+            position: absolute;
+        }
+        .mannn6
+        {
+            margin-left: -134px;
+            margin-top: -32px;
+        }
+
+
+
+        .clients-title {
+            text-transform: uppercase;
+            color: #000000;
+            margin-top: 57px;
+            margin-bottom: 120px;
+            margin-left: 214px;
+            font-size: 36px;
+        }
+
+        .img-clients {
+            padding: 54px 75px;
+           
+        }
